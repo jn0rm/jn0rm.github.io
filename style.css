@@ -9,6 +9,11 @@ img {
 h1 {
     font-family: 'Noto Sans', sans-serif;
 }
+.dropdown-item {
+    color: grey;
+    font-weight: 3px;
+    font-family: 'Noto Sans', sans-serif;
+}
 /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
