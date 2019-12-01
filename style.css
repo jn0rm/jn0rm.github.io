@@ -2,9 +2,12 @@ img {
     height: 90%;
     width: 60%;
     /* padding-top: 20px; */
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
+    box-shadow: gray -3px -3px 13px;
 }
-
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+}
 /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
