@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Noto+Sans&display=swap');
+
 img {
     height: 90%;
     width: 60%;
@@ -7,7 +9,7 @@ img {
     box-shadow: gray -3px -3px 13px;
 }
 h1 {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Notable', sans-serif !important;
 }
 .dropdown-item {
     color: grey;
